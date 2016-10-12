@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity {
         header.attachTo(testRecyclerview);
 
         TextView textView = new TextView(this);
-        textView.setText("this is heard");
+        textView.setText("this is heard4");
         textView.setGravity(Gravity.CENTER);
         adapter.addHeaderView(textView);
     }
