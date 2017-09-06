@@ -2,6 +2,12 @@
 已迁移到新仓库 地址  https://github.com/mengzhidaren/RecylerViewMultiHeaderView
 
 
+``
+
+
+compile 'com.yyl.multiview:recyclerview-multiheaderview:1.0.3'
+
+``
 
 #--！
 
